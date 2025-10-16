@@ -1,1 +1,2 @@
-# terminuspot.github.io
+# terminuspot
+For a blog.
