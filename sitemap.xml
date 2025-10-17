@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://terminuspot.github.io/about/</loc>
+    <lastmod>2025-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://terminuspot.github.io/</loc>
+    <lastmod>2025-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://terminuspot.github.io/tags/first/</loc>
+    <lastmod>2025-09-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://terminuspot.github.io/posts/my-first-post/</loc>
+    <lastmod>2025-09-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://terminuspot.github.io/posts/</loc>
+    <lastmod>2025-09-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://terminuspot.github.io/tags/</loc>
+    <lastmod>2025-09-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://terminuspot.github.io/archives/</loc>
+  </url><url>
+    <loc>https://terminuspot.github.io/categories/</loc>
+  </url><url>
+    <loc>https://terminuspot.github.io/search/</loc>
+  </url>
+</urlset>
